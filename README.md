@@ -1,7 +1,7 @@
 # ProjectHouse
 first thing first.
 
-Part1.
+Part1. 概要
 
 满两年 => 增值税
 
@@ -11,9 +11,7 @@ Part1.
 
 普通住宅贷款上限 => 总价的65% (最新调控政策)
 
-Part2.
-
-商住两用需要考虑的细则:
+Part2. 商住两用需要考虑的细则:
 
 1. 民水民电
 
